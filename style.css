@@ -37,6 +37,12 @@ div h1{
     margin-bottom: 4px;
 }
 
+div strong {
+   color: #C4F82A;
+   font-size: 14; 
+   line-height: 21px;
+}
+
 div p {
-    
+margin-block: 24px;
 }
